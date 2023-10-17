@@ -1,14 +1,21 @@
 .baitola{
-    width: 50%;
-    
+    width: 30%;
 }
 
 .paragrafo1{
-    font-size: xx-large;
+    font-size:xx-large;
     color: black;
 }
 
-body{
-    background-color: white;
+.body{
+    background-color: black;
 }
 
+.f{
+    text-align: center;
+    color: black
+}
+
+.porra{
+    text-align: center;
+}
